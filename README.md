@@ -12,14 +12,12 @@ MATLAB for heavy matrix computations, Jacobian estimation, and optimization rout
 
 This repository contains the complete implementation, including:
 
-IBVS control code
+-IBVS control code
 
-Vision processing scripts
+-Vision processing scripts
 
-MATLAB functions wrapped for Python
+-MATLAB functions wrapped for Python
 
-Experiments with the MyCobot 280 Pi
-
-Utilities for calibration, feature extraction, and data logging
+-Experiments with the MyCobot 280 Pi
 
 This project serves as a foundation for research and experimentation in vision-based robotics, hybrid computation workflows, and advanced control strategies for compact robotic manipulators.
